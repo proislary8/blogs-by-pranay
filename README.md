@@ -1,1 +1,15 @@
 # blogs-by-pranay
+##Blog Links
+1. [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://tcp-udp-compare.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true)
+2. [DNS Record Types Explained](https://dns-record-ii.hashnode.dev/dns-record-types-explained?t=1769781648333)
+3. [Getting Started with cURL](https://curl-basics-start.hashnode.dev/getting-started-with-curl?showSharer=true)
+4. [Git for Beginners: Basics and Essential Commands](https://git-beginners-basic.hashnode.dev/git-for-beginners-basics-and-essential-commands?showSharer=true)
+5. [TCP Working: 3-Way Handshake & Reliable Communication](https://tcp-working-three-handshake.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true)
+6. [How DNS Resolution Works](https://dns-reso-working.hashnode.dev/how-dns-resolution-works?showSharer=true)
+7. [Inside Git: How It Works and the Role of the .git Folder](https://inside-git-working-role.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder?showSharer=true)
+8. [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://working-of-browser-it.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals?showSharer=true)
+9. [Understanding HTML Tags and Elements](https://html-tag-intro-easy.hashnode.dev/understanding-html-tags-and-elements?showSharer=true)
+10. [Why Version Control Exists: The Pendrive Problem](https://pendrive-era.hashnode.dev/why-version-control-exists-the-pendrive-problem?showSharer=true)
+11. [CSS Selectors 101: Targeting Elements with Precision](https://css-selectors-101-ok.hashnode.dev/css-selectors-101-targeting-elements-with-precision?showSharer=true)
+12. [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://emmet-for-html-pro.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup?showSharer=true)
+13. [Understanding Network Devices](https://understanding-network-devices-ic.hashnode.dev/understanding-network-devices?showSharer=true)
